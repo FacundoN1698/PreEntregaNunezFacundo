@@ -1,6 +1,9 @@
-h1{
-    color: red;
-    &:hover{
-        color: violet;
-    }
-}
+@import "general";
+@import "header";
+@import "footer";
+@import "index";
+@import "productos";
+@import "pago";
+@import "contactos";
+@import "informacion";
+@import "mediaquery";
